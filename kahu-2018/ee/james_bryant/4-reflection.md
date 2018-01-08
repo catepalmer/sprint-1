@@ -1,0 +1,3 @@
+This was a tough week - in fact a fair bit longer than a week. Both the CodeAcademy and FreeCodecamp courses took a fair bit longer than the
+prescribed hours. I probably could have done it in the suggested time, but I was trying to avoid moving on until I understood the concept.
+This was easier said than done as there is a LOT to learn. It's hard to say whether I should have tried to go faster, as I almost always ended up using the hints, especially on the tougher challenges. Hopefully will improve with practice. Maybe be more disciplined with my time.   

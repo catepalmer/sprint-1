@@ -1,0 +1,4 @@
+What did I do well?
+This sprint was a bit chaotic for me, as I got myself in a mess with Git, and also realised that I'd been missing some crucial information on the sprints info page. This was both disappointing and encouraging! Disappointing that I'd made life harder for myself, and wasted time looking up aspects that were clearly laid out on the page, but encouraging that I'd got through it without too much of a struggle, and at least I found out now rather than later. Future sprints with this info should be much better.
+What could I do to improve? 
+This information should significantly improve my time management and understanding, so using the timeline guidance and reading the notes and content should put me in a stronger position for future sprints. Don't be afraid to ask for help! I enjoy a collabarative approach but don't like being the only person asking questions.   
